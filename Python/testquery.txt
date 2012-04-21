@@ -1,6 +1,0 @@
-.I 1
-.W
- What articles exist which deal with TSS (Time Sharing System), an
-operating system for IBM computers?
-.N
- 1. Richard Alexander, Comp Serv, Langmuir Lab (TSS)
